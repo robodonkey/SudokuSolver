@@ -1,0 +1,5 @@
+C:\Users\Donkey\SudokuSolver\Project\Project\bin\Debug\Project.exe
+C:\Users\Donkey\SudokuSolver\Project\Project\bin\Debug\Project.pdb
+C:\Users\Donkey\SudokuSolver\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Donkey\SudokuSolver\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\Donkey\SudokuSolver\Project\Project\obj\x86\Debug\Project.pdb

@@ -1,0 +1,13 @@
+Sudoku Solver program
+
+Allows a user to enter in their own puzzle, using periods for unknown numbers. After a puzzle is entered, it will first find all of the singleton choices. Once it does that, it searches the puzzle and sees if it is solved. If it isn't, it starts looking for singletons in cells that have multiple pencil marks.
+
+Once it has removed all of the singletons and has failed a solved check, it will then find a cell with the lowest possible pencil marks, and store that state. It will then brute force solve one solution from one of the pencil marks. If that fails, it will jump to another pencil mark and solve that.
+
+Possible Improvements:
+*Comments
+*More functionalization
+*More higher level logic of Sudoku (X-Wing, Swordfish, etc.)
+*Samurai Sudoku?
+*GUI Interface?
+*Objects?
